@@ -1,4 +1,13 @@
-### Hi there 👋
+```
+Linux user;
+
+Keen on Networking, OS Kernel, Security and Embedded;
+
+Uses C the most;
+```
+
+[Sponsor this way >>>](https://github.com/sponsors/nicholascw)
+
 
 <!--
 **nicholascw/nicholascw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
